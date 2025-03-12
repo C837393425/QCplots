@@ -1,0 +1,14 @@
+Package: QCplots
+Type: Package
+Title: Comparison Plots for Quality Control (QC)
+Version: 0.1.0
+Authors@R: c(person(given = "Yesar Ahmed", family = "Oshan", role = c("aut", "cre"), email = "yesarahmed.oshan@colosate.edu"))
+Description: This package provides functions for generating and saving comparison plots (line and scatter) based on model prediction datasets. It allows users to specify variables, plot types, and customize output settings.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    tidyverse,
+    ggplot2,
+    gridExtra
+RoxygenNote: 7.3.2
