@@ -8,7 +8,7 @@ License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Imports:
-    tidyverse,
+    dplyr,
     ggplot2,
     gridExtra
 RoxygenNote: 7.3.2
